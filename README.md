@@ -10,7 +10,7 @@ Directory qiime2_and_picrust2 contains the bash scripts and the associated confi
 
 In the sub-directory script/:
 qiime2_merge_sequence_2_runs.csh was used to merge the qiime2 feature tables and representative sequences;
-moving_picture_analysis.csh was used to call QIIME2 function to perform data analysis, including rarefication, generation of a rooted phylogenetic tree and taxonomy classification, as well as alpha and beta diversity analysis; some of the output files were used as input to the R data analysis files
+moving_picture_analysis.csh was used to call QIIME2 function to perform data analysis, including rarefaction, generation of a rooted phylogenetic tree and taxonomy classification, as well as alpha and beta diversity analysis; some of the output files were used as input to the R data analysis files
 picrust2_unstratified_new_group.csh was used to call picrust2 to infer functional gene abundance
 
 The configuration files associated with qiime2_merge_sequence_2_runs.csh and moving_picture_analysis.csh were included in the directory config_files/
