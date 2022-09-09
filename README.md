@@ -1,6 +1,6 @@
 # RockCreek_16S_2022
 
-This repository is associated with the manuscript of "Zhang, Y. and Preheim, S.P., 2022. Influence of artificial aeration on the composition, diversity and potential function of microbial communities in a hypoxic estuarine system. Applied and Environmental Microbiology, in preparation".
+This repository is associated with the manuscript of "Zhang, Y. and Preheim, S.P., 2022. Influence of artificial aeration on the composition, diversity and potential function of microbial communities in a hypoxic estuarine system. Applied and Environmental Microbiology, in preparation". The related data will be published soon.
 
 Directory data_analysis_with_R has two files: 1) rarefied_table_115_samples.R and 2) unrarefied_asv_table_new_group_manually_saved.R
 The first file records the R codes used for data analysis and visualization for all samples by grouping them into three categories ('on', 'altered' and 'off').
