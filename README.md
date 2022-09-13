@@ -32,4 +32,4 @@ The raw data (de-multiplexed .fastq files) associated with this manuscript can b
   Output files of the R scripts under directory data_analysis_with_R
 5. RockCreek_16S_scripts_archive.Rproj
   R studio project file
-![image](https://user-images.githubusercontent.com/23330368/190009291-b6504823-ea6b-46e1-b0b8-1379bdc87e59.png)
+
